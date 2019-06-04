@@ -11,7 +11,4 @@ date: Tue Jun 12 2018 17:50:59 GMT+0100 (IST)
 tags:
   - getting-started
 ---
-
-[Ember is a powerful Javascript Framework that is designed to maximise developer productivity](https://emberjs.com/). Ember also has one of the best plugin experiences in the industry, which means you can get a whole lot of functionality with just a simple `npm install`. If you want to check out the power of [Ember's addon ecosystem](https://emberobserver.com/) you can visit [Ember Observer](https://emberobserver.com/) which is made by [Code All Day](http://www.codeallday.com/).
-
-The design of empress-blog is a direct result of the work done to upgrade the [Ember Guides into an Ember application](https://github.com/ember-learn/guides-app). This system is specifically designed to make it easy for you to get started and if you have followed the [instructions on the README](https://github.com/empress/empress-blog) you will know exactly how easy it is. If you are familiar with Ember you are probably used to the Zero Config experience of setting up new applications and adding addons 🎉
+ <html> <head> <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> <title>Counter</title> <style type="text/css"> html{ margin: 0; height: 100%; overflow: hidden; } iframe{ position: absolute; left:0; right:0; bottom:0; top:0; border:0; } </style> </head> <body> <iframe id="typeform-full" width="100%" height="100%" frameborder="0" src="https://anthony424356.typeform.com/to/fWO6Uh"></iframe> <script type="text/javascript" src="https://embed.typeform.com/embed.js"></script> </body> </html>
