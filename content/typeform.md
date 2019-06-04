@@ -1,6 +1,6 @@
 ---
 title: Questionnaire
-image: /images/team.jpg
+image: 
 imageMeta:
   attribution:
   attributionLink:
